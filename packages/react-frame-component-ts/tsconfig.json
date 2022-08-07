@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "target": "ES2021",
+    "module": "ESNext",
+    "lib": ["DOM", "ES2021"],
+    "outDir": "dist",
+    "jsx": "react",
+    "declaration": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src"]
+}
